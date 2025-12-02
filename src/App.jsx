@@ -7,7 +7,7 @@ function App() {
       img: "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1689180417/758664_FACK7_9768_001_084_0000_Light.jpg",
       name: "Gucci duffle bag",
       price: 960,
-      aksiya: "17%",
+      aksiya: 17,
       reting: 4.5,
     },
     {
@@ -39,7 +39,7 @@ function App() {
       img: "https://png.pngtree.com/png-clipart/20241114/original/pngtree-asus-elegant-gaming-laptop-png-image_17033096.png",
       name: "ASUS FHD Gaming Laptop",
       price: 960,
-      aksiya: "17%",
+      aksiya: 17,
       reting: 4.5,
     },
     {
@@ -79,7 +79,7 @@ function App() {
       img: "https://i.pinimg.com/originals/69/76/46/69764619239a7fb8a5dcb5d21e44f06a.png",
       name: "CANON EOS DSLR Camera",
       price: 350,
-      aksiya: "22%",
+      aksiya: 22,
       reting: 4.8,
     },
     {
@@ -103,7 +103,7 @@ function App() {
       img: "https://www.pngall.com/wp-content/uploads/7/Electric-Car-Transparent.png",
       name: "Kids Electric Car",
       price: 960,
-      aksiya: "17%",
+      aksiya: 17,
       reting: 4.8,
     },
     {
